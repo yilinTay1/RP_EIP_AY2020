@@ -1,0 +1,46 @@
+{
+  "name": "UseCase2_Initialisation",
+  "description": "Practise reading/writing MS Excel\r\nPractise For Each Row activity\r\nPractise pulling data from web\r\nUnderstand what are selectors and how they  work\r\nLearn how to apply wildcards for dynamic  selector",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.Excel.Activities": "[2.9.3-beta.1162882]",
+    "UiPath.Mail.Activities": "[1.9.3-beta.1159742]",
+    "UiPath.System.Activities": "[20.10.1-beta.1162306]",
+    "UiPath.UIAutomation.Activities": "[20.10.2-preview]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "20.10.0.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "isPausable": true,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [],
+    "modernBehavior": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {}
+}
