@@ -1,0 +1,11 @@
+Dear {0},
+
+1.	Thank you for registering for the virtual site briefing.
+
+2.	The virtual site briefing will be conducted on 5 August 20 (Tuesday) 10:00-11:30hrs which will be conducted via Cisco WebEx.  The Meeting Number is 222 222 1234. Please enter the room by either entering the meeting number or clicking on the link in the attached document at least 30 mins (09:30hrs) before starting time.
+ 
+
+Thank you.
+
+Regards,
+Yi Lin
